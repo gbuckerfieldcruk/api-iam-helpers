@@ -1,5 +1,4 @@
 import sys, os, base64, datetime, hashlib, hmac 
-import requests,json
 
 # Key derivation functions. See:
 # http://docs.aws.amazon.com/general/latest/gr/signature-v4-examples.html#signature-v4-examples-python
