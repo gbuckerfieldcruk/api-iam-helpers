@@ -1,6 +1,8 @@
 # API Gateway IAM Helpers
 
-A collection of utilities to make submitting IAM authenticated requests to AWS API Gateway simpler.
+A collection of utilities to make submitting IAM authenticated requests to AWS API Gateway deployments simpler. Documentation on what AWS expects in an IAM authenticated request is available here:
+http://docs.aws.amazon.com/general/latest/gr/sigv4_signing.html
+http://docs.aws.amazon.com/general/latest/gr/sigv4-signed-request-examples.html
 
 ## Usage:
 
